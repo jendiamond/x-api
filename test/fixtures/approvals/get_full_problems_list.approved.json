@@ -298,7 +298,8 @@
       "track_ids": [
         "go",
         "haskell",
-        "php"
+        "php",
+        "scala"
       ]
     },
     {
@@ -581,11 +582,17 @@
     },
     {
       "slug": "hello-world",
-      "blurb": "Write a program that greets the user by name, or by saying \"Hello world!\" if no name is given",
+      "blurb": "Write a program that greets the user by name, or by saying \"Hello world!\" if no name is given.",
       "source": "This is a program to introduce users to using Exercism",
       "source_url": "http://en.wikipedia.org/wiki/%22Hello,_world!%22_program",
       "track_ids": [
-
+        "coffeescript",
+        "javascript",
+        "lua",
+        "python",
+        "ruby",
+        "scala",
+        "scheme"
       ]
     },
     {
@@ -597,6 +604,7 @@
         "clojure",
         "coffeescript",
         "cpp",
+        "csharp",
         "go",
         "haskell",
         "javascript",
@@ -908,7 +916,8 @@
       "track_ids": [
         "elixir",
         "go",
-        "haskell"
+        "haskell",
+        "scala"
       ]
     },
     {
@@ -1011,7 +1020,7 @@
       "source": "Adaptation of exercise from 4clojure",
       "source_url": "https://www.4clojure.com/",
       "track_ids": [
-
+        "haskell"
       ]
     },
     {
